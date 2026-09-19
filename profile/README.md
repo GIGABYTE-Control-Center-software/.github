@@ -1,4 +1,4 @@
-# GIGABYTE Control Center (GCC)
+# GIGABYTE Control Center software (GCC)
 
 > **GIGABYTE Control Center brings system tuning, performance modes, and profile management into one calm workspace: flexible settings, steady tools, and no limits.**
 
@@ -22,7 +22,7 @@ GIGABYTE Control Center capture keeps every session smooth. GIGABYTE Control Cen
 
 ---
 
-![Banner Placeholder](https://www.gigabyte.com/FileUpload/Global/WebPage/942/innergigabyte/images/sec2-pic1.jpg)
+![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToebTFsoOF01zgZYoZlyUciJwH6BwKXAslOaFvkzeOOgdqBjuTMw1Z-YI&s=10)
 
 ---
 
